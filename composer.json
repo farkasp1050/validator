@@ -1,0 +1,19 @@
+{
+    "name": "farkasp1050/validator",
+    "description": "Light-weight, extendable validator to validate form fields, JSON or other values already converted to PHP variables or some PHP structures",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Farkasp1050\\Validator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Patrik Farkas",
+            "email": "farkas.patrik105@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
